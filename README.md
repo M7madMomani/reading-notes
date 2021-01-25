@@ -1,7 +1,8 @@
 # Mindset
 
 > ## What is Mindset ?
- ![I1](https://fulcrumconnection.com/blog/wp-content/uploads/2019/03/growth-mindset-vs-fixed-mindset.png)
+
+![I1](https://fulcrumconnection.com/blog/wp-content/uploads/2019/03/growth-mindset-vs-fixed-mindset.png)
 
 
  Mindsets are the implicit theories that individuals hold about the malleability of human characteristics. Research indicates that students’ beliefs about the nature of intelligence and ability significantly shape their response to academic challenges
