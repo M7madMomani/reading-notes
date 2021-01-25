@@ -32,4 +32,4 @@ Images | ![ Name ]( U R L )
 etc | ............ 
 
 
-# `Have a nice day`
+# Have a nice day
