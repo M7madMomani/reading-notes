@@ -8,7 +8,7 @@
 
 ![alt text](https://www.hollywoodeyesflorida.com/wp-content/uploads/2019/03/child_questions_glasses_istock_000045071152_large.jpg)
 
-> What dose thate mean?
+> ## What dose thate mean?
 
 
 
@@ -18,7 +18,7 @@
  
   ![alt text](https://scet.berkeley.edu/wp-content/uploads/fixed-mindset-1.png)
 
- > What is  fixed mindset?
+ > ## What is  fixed mindset?
  
 
 
