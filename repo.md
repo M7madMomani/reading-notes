@@ -28,5 +28,6 @@ italic | * any thing *
 bold | ** any thing  **
 Unordered list | * Item 
 Ordered list | 1. Item
-Images | ![Name ]( U R L )
+Images | ![ Name ]( U R L )
 etc | ............ 
+
