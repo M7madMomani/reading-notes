@@ -29,8 +29,8 @@ Individuals who believe that intelligence and ability are largely immutable. tho
 Do you like my page 😉
 - [x] I Like It!😍
 - [x] it's amazing 🤓
-<span style="color:#0099ff">
-# *[NEXT PAGE👉🏻](https://m7madmomani.github.io/reading-notes/repo)* </span >
+
+# *[NEXT PAGE👉🏻](https://m7madmomani.github.io/reading-notes/repo)* 
 
 # *[Git Tutorial👉🏻](https://m7madmomani.github.io/reading-notes/RepoGitTutorial)* 
 
