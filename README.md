@@ -31,3 +31,7 @@ Do you like my page 😉
 - [x] it's amazing 🤓
 
 # *[NEXT PAGE👉🏻](https://m7madmomani.github.io/reading-notes/repo)* 
+
+# *[Git Tutorial👉🏻](https://m7madmomani.github.io/reading-notes/RepoGitTutorial)* 
+
+
