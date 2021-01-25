@@ -24,3 +24,4 @@ In order to collaborate on Git projects, you must interact with remote repositor
 
 
  Each time you save a changed version of your project (called commit) Git creates a snapshot of the file and stores a reference to it. If the file has not changed, Git only stores a reference to the already-stored identical version of it.
+<span style="color:blue">some *blue* text</span>.
