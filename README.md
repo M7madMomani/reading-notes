@@ -25,7 +25,7 @@
 
 Individuals who believe that intelligence and ability are largely immutable. those kind  respond to failure by withdrawing, disengaging , or persisting with the same set of strategies despite their prior demonstrated ineffectiveness.
 
-	Do you like my page 😉
-	 - [ ] Write the press release
-	 - [ ] Update the website	
-	 - [ ] Contact the media	
+Do you like my page 😉
+- [ ] Write the press release
+- [ ] Update the website	
+- [ ] Contact the media	
