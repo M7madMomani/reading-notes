@@ -17,7 +17,7 @@
 
  The mindset framework summarizes research on how people think, feel, and respond to failure and challenging experiences.
  
-![I3](https://image.freepik.com/free-vector/two-businessman-different-thinking-fixed-mindset-vs-growth-mindset-success-concept_101179-641.jpg)
+![I3](https://ensemblelearning.org/wp-content/uploads/2019/12/growth-mindset-02.png)
 
  > ## What is  fixed mindset?
  
