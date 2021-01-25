@@ -30,5 +30,3 @@ Do you like my page 😉
 - [x] I Like It!😍
 - [x] it's amazing 🤓
 
-[Click me](http://www.google.com){: .btn}
-
