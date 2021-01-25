@@ -24,7 +24,7 @@ Git is a DVCS that stores data in a file system made up of snapshots. Each time 
 > # Remote Repositories
 In order to collaborate on Git projects, you must interact with remote repositories, versions of a project residing online or on a network. You can work with multiple repositories, for which you can have read/write or read-only privileges. Teams can use remote repositories to push information to and pull data from.
 
-<span style="color:#0099ff"># HAVE A NICE DAY </span>.
+<span style="color:#ff0066"># HAVE A NICE DAY </span>.
 
 
 
