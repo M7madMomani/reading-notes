@@ -2,7 +2,7 @@
 ## hay This is Mohammad Momani 😁
 
 
-## let's take a tor with some pages
+## let's take a tour with some pages
 
 
 ![I2](https://external-preview.redd.it/TtvvGviy25Kg_Z4SchFRUCdUGL8aukkM-vLPkV2qynU.png?auto=webp&s=66ba75dcc87d35738be1cb26ec1359029531ce21)
