@@ -11,11 +11,11 @@ HTML is a markup language that is used by the browser to manipulate text, images
 
 
  ## Some HTML Characteristics :
-> * Easy to understand: It is the easiest language you can say, very easy to grasp this language and easy to develop.
-> * Flexibility: This language is so much flexible that you can create whatever you want, a flexible way to design web pages along with the text.
-> * Linkable: You can make linkable text like users can connect from one page to another page or website through these characteristics.
-> * Limitless features: You can add videos, gifs, pictures or sound anything you want that will make the website more attractive and understandable.
-> * Support: You can use this language to display the documents on any platform like Windows, Linux or Mac.
+> - Easy to understand: It is the easiest language you can say, very easy to grasp this language and easy to develop.
+> - Flexibility: This language is so much flexible that you can create whatever you want, a flexible way to design web pages along with the text.
+> - Linkable: You can make linkable text like users can connect from one page to another page or website through these characteristics.
+> - Limitless features: You can add videos, gifs, pictures or sound anything you want that will make the website more attractive and understandable.
+> - Support: You can use this language to display the documents on any platform like Windows, Linux or Mac.
 
 
 
@@ -23,13 +23,13 @@ HTML is a markup language that is used by the browser to manipulate text, images
 ![I2](https://www.itl.cat/pngfile/big/327-3274460_web-development.jpg)
 
 ## let's find out some HTML  tags
-> * The <!DOCTYPE html> declaration defines that this document is an HTML5 document
-> * The <html> element is the root element of an HTML page
-> * The <head> element contains meta information about the HTML page
-> * The <title> element specifies a title for the HTML page (which is shown in the browser's title bar or in the page's tab)
-> * The <body> element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.
-> * The <h1> element defines a large heading
-> * The <p> element defines a paragraph
+> - The <!DOCTYPE html> declaration defines that this document is an HTML5 document
+> - The <html> element is the root element of an HTML page
+> - The <head> element contains meta information about the HTML page
+> - The <title> element specifies a title for the HTML page (which is shown in the browser's title bar or in the page's tab)
+> - The <body> element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.
+> - The <h1> element defines a large heading
+> - The <p> element defines a paragraph
 
 
 
