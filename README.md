@@ -10,10 +10,10 @@
 
 Name | URL
 ------------ | -------------
-GITHub | *[GITHub👉🏻](https://m7madmomani.github.io/reading-notes/repo)* 
-Git |  *[Git Tutorial👉🏻](https://m7madmomani.github.io/reading-notes/RepoGitTutorial)* 
-Mindset | *[Mindset](https://m7madmomani.github.io/reading-notes/Mindset)* 
-html | *[HtmlPage](https://m7madmomani.github.io/reading-notes/HtmlPage)*  
+GITHub | [GITHub👉🏻](https://m7madmomani.github.io/reading-notes/repo)* 
+Git | [Git Tutorial👉🏻](https://m7madmomani.github.io/reading-notes/RepoGitTutorial)
+Mindset | [Mindset](https://m7madmomani.github.io/reading-notes/Mindset)*
+html | [HtmlPage](https://m7madmomani.github.io/reading-notes/HtmlPage)* 
 
 
 
