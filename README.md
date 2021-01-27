@@ -14,7 +14,7 @@ Mindset | [Mindset](https://m7madmomani.github.io/reading-notes/Mindset)
 GitHub | [GITHub👉🏻](https://m7madmomani.github.io/reading-notes/repo)
 Git | [Git Tutorial👉🏻](https://m7madmomani.github.io/reading-notes/RepoGitTutorial)
 HTML | [HtmlPage](https://m7madmomani.github.io/reading-notes/HtmlPage)
-JavaScript | [JavaScript](https://m7madmomani.github.io/reading-notes/js)
+JavaScript | [JavaScript](https://m7madmomani.github.io/reading-notes/JSfile)
 
 
 
