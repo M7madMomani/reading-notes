@@ -49,8 +49,9 @@
 > - Constant numbers —> const PI = 3.14
 
 
- ## to get more about JavaScript 👇🏻
- > [JavaScript](https://www.w3schools.com/js/default.asp)
+## to get more about JavaScript 👇🏻
+
+> [JavaScript](https://www.w3schools.com/js/default.asp)
  
 
 
