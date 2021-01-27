@@ -32,6 +32,9 @@
 > - % — Modulus (remainder )
 > - ++ — Increment numbers
 > - -- — Decrement numbers
+
+
+
 ![I3](https://itea.ua/wp-content/uploads/2020/10/bazovyj-kurs-javascript_1.png)
 
 
