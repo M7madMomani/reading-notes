@@ -51,7 +51,7 @@
 
 ## to get more about JavaScript 👇🏻
 
-> [JavaScript](https://www.w3schools.com/js/default.asp)
+### [JavaScript](https://www.w3schools.com/js/default.asp)
  
 
 
