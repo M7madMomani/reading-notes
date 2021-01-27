@@ -5,9 +5,8 @@
 ![I1](https://cdn.hipwallpaper.com/i/12/42/DXeZUW.jpg)
 ## What is HTML ?
 
-HTML stands for HyperText Markup Language. It is used to design web pages using a markup language. HTML is the combination of Hypertext and Markup language. Hypertext defines the link between the web pages. A markup language is used to define the text document within tag which defines the structure of web pages.
-
-HTML is a markup language that is used by the browser to manipulate text, images, and other content to display it in the required format.
+> HTML stands for HyperText Markup Language. It is used to design web pages using a markup language. HTML is the combination of Hypertext and Markup language. Hypertext defines the link between the web pages. A markup language is used to define the text document within tag which defines the structure of web pages.
+> HTML is a markup language that is used by the browser to manipulate text, images, and other content to display it in the required format.
 
 
  ## Some HTML Characteristics :
@@ -28,8 +27,8 @@ HTML is a markup language that is used by the browser to manipulate text, images
 > - The <head> element contains meta information about the HTML page
 > - The <title> element specifies a title for the HTML page (which is shown in the browser's title bar or in the page's tab)
 > - The <body> element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.
-> - The <h1> element defines a large heading
-> - The <p> element defines a paragraph
+> - The < h 1 > element defines a large heading
+> - The < p > element defines a paragraph
 
 
 
