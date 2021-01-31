@@ -1,11 +1,14 @@
 # CSS 
-![I1](https://res.cloudinary.com/practicaldev/image/fetch/s--LBKtcN6---/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/2gtqqlfraqi3ljmtt5at.jpg)
+![I2](https://s3.eu-west-2.amazonaws.com/uploads.3alampro.com/2019/October/UqGlnihBSz6tx8ua5tojPTwPvN3KsN6v6DfRNDa2.jpeg)
+
+
+
+
 ## What is CSS ?
 
 > Cascading Style Sheets, fondly referred to as CSS, is a simply designed language intended to simplify the process of making web pages presentable. CSS allows you to apply styles to web pages. More importantly, CSS enables you to do this independent of the HTML that makes up each web page. CSS is easy to learn and understood but it provides powerful control over the presentation of an HTML document
 
-
-![I2](https://s3.eu-west-2.amazonaws.com/uploads.3alampro.com/2019/October/UqGlnihBSz6tx8ua5tojPTwPvN3KsN6v6DfRNDa2.jpeg)
+![I1](https://res.cloudinary.com/practicaldev/image/fetch/s--LBKtcN6---/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/2gtqqlfraqi3ljmtt5at.jpg)
 
 ## WHY CSS?
 > - CSS saves time : You can write CSS once and reuse same sheet in multiple HTML pages.
