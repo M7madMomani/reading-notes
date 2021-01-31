@@ -15,7 +15,7 @@ GitHub | [GITHub👉🏻](https://m7madmomani.github.io/reading-notes/repo)
 Git | [Git Tutorial👉🏻](https://m7madmomani.github.io/reading-notes/RepoGitTutorial)
 HTML | [HtmlPage](https://m7madmomani.github.io/reading-notes/HtmlPage)
 JavaScript | [JavaScript](https://m7madmomani.github.io/reading-notes/JSfile)
-
+CSS | [CSS](https://m7madmomani.github.io/reading-notes/CSS_note)
 
 
 
