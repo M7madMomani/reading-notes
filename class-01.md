@@ -31,23 +31,50 @@
 > - The < p > element defines a paragraph
 
 
+## HTML Structure of Pages
+
+![I3](http://www.basewebmaster.com/html/images/page-structure.gif)
 
 
+## EXTRA MARKUP
+> - DOCTYPES tell browsers which version of HTML you are using.
+> - You can add comments to your code between the < !-- and -- > markers.
+> - The id and class attributes allow you to identify particular elements.
+> - The <div> and <span> elements allow you to group block-level and inline elements together.
+> - <iframes> cut windows into your web pages through which other pages can be displayed.
+> - The <meta> tag allows you to supply all kinds of information about your web page.
+> - Escape characters are used to include special characters in your pages such as <, >, and ©.
 
 
- ## to get more about HTML 👇🏻
- > [HtmlPage](https://www.w3schools.com/html/default.asp)
+## HTML5 LAYOUT
+
+> - The new HTML5 elements indicate the purpose of different parts of a web page and help to describe its structure.
+> - The new elements provide clearer code (compared with using multiple <div> elements).
+> - Older browsers that do not understand HTML5 elements need to be told which elements are block-level elements.
+> - To make HTML5 elements work in Internet Explorer 8 (and older versions of IE), extra JavaScript is needed, which is available free from Google.
+
+
+## PROCESS & Design
+
+> - Site maps allow you to plan the structure of a site.
+> - Wireframes allow you to organize the information that will need to go on each page.
+> - Design is about communication. Visual hierarchy helps visitors understand what you are trying to tell them.
+> - You can differentiate between pieces of information using size, color, and style.
+> - You can use grouping and similarity to help simplify the information you present.
+
+
  
 
 
 # JavaScript 
-![I1](https://images.squarespace-cdn.com/content/v1/58d20c79725e25b221549193/1521098155260-OD3QNLD1RK7DGPWMCUA6/ke17ZwdGBToddI8pDm48kNvT88LknE-K9M4pGNO0Iqd7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1USOFn4xF8vTWDNAUBm5ducQhX-V3oVjSmr829Rco4W2Uo49ZdOtO_QXox0_W7i2zEA/js.jpg?format=2500w)
+![I4](https://images.squarespace-cdn.com/content/v1/58d20c79725e25b221549193/1521098155260-OD3QNLD1RK7DGPWMCUA6/ke17ZwdGBToddI8pDm48kNvT88LknE-K9M4pGNO0Iqd7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1USOFn4xF8vTWDNAUBm5ducQhX-V3oVjSmr829Rco4W2Uo49ZdOtO_QXox0_W7i2zEA/js.jpg?format=2500w)
 ## What is JavaScript ?
 
 > JavaScript is a cross-platform, object-oriented scripting language used mainly for enhancing the interaction of a user with the webpage. In other words, you can make your webpage more lively and interactive, with the help of JavaScript( having animations, clickable buttons, popup menus, etc.). 
 
 
 ## Some js Characteristics :
+
 > - Object-Centered Script Language
 > - Client edge Technology
 > - Validation of User’s Input
@@ -60,9 +87,7 @@
 > - Handling Events
 
 
-
-
-![I2](https://2019.stateofjs.com/images/stateofjs-socialmedia.png)
+![I5](https://2019.stateofjs.com/images/stateofjs-socialmedia.png)
 
 
 ## Basic Operators of JS 
@@ -77,7 +102,7 @@
 
 
 
-![I3](https://itea.ua/wp-content/uploads/2020/10/bazovyj-kurs-javascript_1.png)
+![I6](https://itea.ua/wp-content/uploads/2020/10/bazovyj-kurs-javascript_1.png)
 
 
 
@@ -119,7 +144,9 @@ Operator | Description | Example
     - lines of code to be executed
     - }
 
-## to get more about JavaScript 👇🏻
 
-### [JavaScript](https://www.w3schools.com/js/default.asp)
- 
+  
+  
+## to get more about  👇🏻
+ > [HtmlPage](https://www.w3schools.com/html/default.asp)
+ > [JavaScript](https://www.w3schools.com/js/default.asp)
