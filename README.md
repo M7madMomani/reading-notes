@@ -24,7 +24,7 @@ CSS | [CSS](https://m7madmomani.github.io/reading-notes/CSS_note)
 
 Name | URL
 ------------ | -------------
-1 | 1
+class-01 | [class01](https://m7madmomani.github.io/reading-notes/class-01)
 2 | 2
 3 | 3
 4 | 4
